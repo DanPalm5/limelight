@@ -2,7 +2,7 @@
 // Assign03 - Limelight
 //Daniel Palmieri T/TR 12:30-1:45
 //Dr. Babcock - If you want to toggle lights, try using C (cube), O (octahedron), and P(sphere). If you want to change up the colors, try using M. To enter disco mode, use R.
-//Thank you again for figuring out that exception issue! I knew it would be something simple as always...
+
 
 
 #ifdef OSX
